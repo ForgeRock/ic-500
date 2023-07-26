@@ -18,6 +18,7 @@ Below is a brief introduction to each file being used in the chapter one exercis
   This file contains the worksheets for capturing discovery and design data for each of the IAM Domains.
   Download this worksheet for the exercises and your own personal use.
   
-- `99-user.ldif`
+- `99-user-pretty.ldif`
 
   This file contains the extended object class and properties for the subscriber's LDAP directory.
+  It has been formatted or beautified to make it easier to read.
