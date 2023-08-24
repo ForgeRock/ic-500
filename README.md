@@ -22,3 +22,9 @@ Below is a brief introduction to each file being used in the chapter one exercis
 
   This file contains the extended object class and properties for the subscriber's LDAP directory.
   It has been formatted or beautified to make it easier to read.
+
+- [`identity-cloud-checklist.pdf`](./identity-cloud-checklist.pdf)
+
+  This file is referenced on the slide titled "Identity Cloud Checklist" in chapter 1, lesson 1.
+  It is here in case the external website version is removed.
+  
